@@ -66,7 +66,7 @@ export default function SignIn() {
 }
 
 const styles = StyleSheet.create({
-  container: { flex: 1, padding: 20, backgroundColor: "#fff" },
+  container: { flex: 1, padding: 20, backgroundColor: "#ffffffff" },
   title: { fontSize: 32, fontWeight: "bold", textAlign: "center", marginBottom: 20 },
   input: {
     borderWidth: 1,
